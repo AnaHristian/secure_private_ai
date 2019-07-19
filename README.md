@@ -10,3 +10,11 @@ Secure modeks trained using federated learning with multi-party computation in t
 * Lesson 3: Intro to Fixed Precision Encoding
 * Lesson 4: Secret Sharing + Fixed Precision in PySyft
 * Final Project: Federated Learning wtih Encrypted Gradient Aggregation
+
+## Section 4: Encrypted Deep Learning
+* Lesson: Reviewing Additive Secret Sharing
+* Lesson: Encrypted Subtraction and Public/Scalar Multiplication
+* Lesson: Encrypted Computation in PySyft
+* Project: Build an Encrypted Database
+* Lesson: Encrypted Deep Learning in PyTorch
+* Lesson: Encrypted Deep Learning in Keras
